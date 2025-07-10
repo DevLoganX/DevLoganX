@@ -92,10 +92,18 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devloganx&show_icons=true&locale=en&layout=compact" alt="devloganx" /></p>
+![](https://github-readme-stats.vercel.app/api?username=devloganx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devloganx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devloganx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devloganx&show_icons=true&locale=en" alt="devloganx" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devloganx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devloganx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devloganx&icon=9&color=0)](https://visitcount.itsvg.in)
 
 
 ---
