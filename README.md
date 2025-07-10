@@ -105,9 +105,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=devloganx&icon=9&color=0)](https://visitcount.itsvg.in)
 
-
----
-
 ### 📫 Contact Me
 
 - 📧 **Email**: [logan.sandoval921@gmail.com](mailto:logan.sandoval921@gmail.com)  
