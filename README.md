@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yusuf Zaidi 👋</h1>
-<h3 align="center">Senior Software Engineer  6+ Years Experience | Mern Stack | Django</h3>
+<h3 align="center">Senior Software Engineer | 6+ Years Experience | Mern Stack | Django</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yusufzaidi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
